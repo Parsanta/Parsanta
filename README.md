@@ -1,3 +1,4 @@
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Parsanta Lal</h1>
 <h3 align="center">I'm passionate about web development, design, and coding.</h3>
 
