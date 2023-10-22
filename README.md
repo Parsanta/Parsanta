@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Parsanta Lal</h1>
 <h3 align="center">I'm passionate about web development, design, and coding.</h3>
 
-- 🔭 I’m currently working on [Dis-Patch](https://github.com/Parsanta/dis_patch)
+- 🔭 I’m currently working on **Rust Projects**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Reactjs projects**
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **reactjs,Rust**
 
 - 📫 How to reach me **parsantarajpal123@gmail.com**
 
