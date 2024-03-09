@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parsanta Lal</h1>
 <h3 align="center">I'm passionate about web development, design, and coding.</h3>
 
-- 🔭 I’m currently working on **Rust Projects**
+- 🔭 I’m currently working on **Reactjs Projects**
 
 - 🌱 I’m currently learning **Rust**
 
